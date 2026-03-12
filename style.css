@@ -37,10 +37,7 @@ h3 {
   color: hsl(332, 51%, 32%);
   font-family: "Young Serif", serif;
 }
-h3 {
-  color: hsl(332, 51%, 32%);
-  font-family: "Young Serif", serif;
-}
+
 p {
   color: hsl(30, 10%, 34%);
 }
@@ -53,6 +50,17 @@ tr {
 td:last-child {
   color: hsl(14, 45%, 36%);
   font-weight: 700;
+}
+@media (max-width: 768px) {
+   article {
+    max-width: 100%;
+    border-radius: 0;
+    padding: 0;
+  }
+   h1, p, section {
+   padding: 0 24px;
+  }
+
 }
   
   
