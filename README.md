@@ -26,11 +26,11 @@ Reto de [Frontend Mentor](https://www.frontendmentor.io) para construir una pág
 - Propiedades CSS: background-color, color, font-family, padding, margin, border-radius
 - Uso de clases CSS para estilos específicos
 - Google Fonts: enlazar fuentes externas
+- Responsive design con media queries
 
 ## 🚧 Pendiente
 
-- [ ] Responsive design (móvil vs escritorio)
-- [ ] Completar estilos CSS restantes
+- [ ] Responsive design completo (tablet)
 
 ## 👩‍💻 Desarrollado por
 
