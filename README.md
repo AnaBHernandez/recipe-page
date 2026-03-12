@@ -7,12 +7,12 @@ Reto de [Frontend Mentor](https://www.frontendmentor.io) para construir una pág
 ## 🔗 Links
 
 - **Repositorio:** [github.com/AnaBHernandez/recipe-page](https://github.com/AnaBHernandez/recipe-page)
-- **Live Site:** _(pendiente de activar GitHub Pages)_
+- **Live Site:** [anabhernandez.github.io/recipe-page](https://anabhernandez.github.io/recipe-page/)
 
 ## 🛠️ Tecnologías usadas
 
 - HTML5 semántico
-- CSS3 _(próxima iteración)_
+- CSS3
 
 ## 📚 Lo que aprendí
 
@@ -23,14 +23,17 @@ Reto de [Frontend Mentor](https://www.frontendmentor.io) para construir una pág
 - Etiqueta img con atributos src y alt (accesibilidad)
 - Flujo de trabajo con Git: add, commit, push
 - Convención Conventional Commits: prefijos feat: y fix:
+- Propiedades CSS: background-color, color, font-family, padding, margin, border-radius
+- Uso de clases CSS para estilos específicos
+- Google Fonts: enlazar fuentes externas
 
 ## 🚧 Pendiente
 
-- [ ] Añadir CSS: colores, tipografía, espaciados
 - [ ] Responsive design (móvil vs escritorio)
-- [ ] Activar GitHub Pages
+- [ ] Completar estilos CSS restantes
 
 ## 👩‍💻 Desarrollado por
 
-**Ana Belén Hernández** 
-Confección y Publicación de Páginas Web. Factoría F5 · Gijón, Asturias · 2026
+**Ana Belén Hernández**  
+Confección y Publicación de Páginas Web  
+Factoría F5 · Gijón, Asturias · 2026
