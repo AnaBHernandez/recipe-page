@@ -32,5 +32,5 @@ Reto de [Frontend Mentor](https://www.frontendmentor.io) para construir una pág
 
 ## 👩‍💻 Desarrollado por
 
-**Ana Belén Hernández** — Full Stack Developer
-Bootcamp Factoría F5 · Gijón, Asturias · 2026
+**Ana Belén Hernández** 
+Confección y Publicación de Páginas Web. Factoría F5 · Gijón, Asturias · 2026
