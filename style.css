@@ -1,0 +1,12 @@
+body{
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(30, 54%, 90%);
+}
+article{
+  background-color: hsl(0, 0%, 100%);
+  margin: auto;
+  max-width: 736px;
+}
+  
+
